@@ -1,0 +1,7 @@
+pyuic5 -x uiFiles/salary_position.ui -o GUI/UI_classes/ui_salary_position.py
+pyuic5 -x uiFiles/changePosition_dialog.ui -o GUI/UI_classes/ui_changePosition_dialog.py
+pyuic5 -x uiFiles/changeSalary_dialog.ui -o GUI/UI_classes/ui_changeSalary_dialog.py
+pyuic5 -x uiFiles/charts.ui -o GUI/UI_classes/ui_charts.py
+pyuic5 -x uiFiles/mainWindow.ui -o GUI/UI_classes/ui_mainWindow.py
+pyuic5 -x uiFiles/manageEmployees.ui -o GUI/UI_classes/ui_manageEmployees.py
+pyuic5 -x uiFiles/new_employee.ui -o GUI/UI_classes/ui_new_employee.py
